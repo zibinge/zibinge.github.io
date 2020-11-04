@@ -3,11 +3,11 @@
   <title>子滨的博客</title>
   
   <subtitle>充满鲜花的时间在哪里</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://blog.bingege.top/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
-  <updated>2020-11-04T09:39:37.757Z</updated>
-  <id>http://example.com/</id>
+  <link href="https://blog.bingege.top/"/>
+  <updated>2020-11-04T12:51:32.391Z</updated>
+  <id>https://blog.bingege.top/</id>
   
   <author>
     <name>ZiBin</name>
@@ -17,9 +17,28 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>bbbbb</title>
+    <link href="https://blog.bingege.top/2020/11/04/bbbbb/"/>
+    <id>https://blog.bingege.top/2020/11/04/bbbbb/</id>
+    <published>2020-11-04T12:49:13.000Z</published>
+    <updated>2020-11-04T12:51:32.391Z</updated>
+    
+    <content type="html"><![CDATA[<p>6666</p><a id="more"></a><p>&lt;888888grg </p><p>的观点啊广东</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;6666&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="python" scheme="https://blog.bingege.top/tags/python/"/>
+    
+  </entry>
+  
+  <entry>
     <title>linux 笔记</title>
-    <link href="http://example.com/2020/11/04/linux-%E7%AC%94%E8%AE%B0/"/>
-    <id>http://example.com/2020/11/04/linux-%E7%AC%94%E8%AE%B0/</id>
+    <link href="https://blog.bingege.top/2020/11/04/linux-%E7%AC%94%E8%AE%B0/"/>
+    <id>https://blog.bingege.top/2020/11/04/linux-%E7%AC%94%E8%AE%B0/</id>
     <published>2020-11-04T09:38:46.000Z</published>
     <updated>2020-11-04T09:39:37.757Z</updated>
     
@@ -31,14 +50,14 @@
     
     
     
-    <category term="python" scheme="http://example.com/tags/python/"/>
+    <category term="python" scheme="https://blog.bingege.top/tags/python/"/>
     
   </entry>
   
   <entry>
     <title>python笔记</title>
-    <link href="http://example.com/2020/11/04/python%E7%AC%94%E8%AE%B0/"/>
-    <id>http://example.com/2020/11/04/python%E7%AC%94%E8%AE%B0/</id>
+    <link href="https://blog.bingege.top/2020/11/04/python%E7%AC%94%E8%AE%B0/"/>
+    <id>https://blog.bingege.top/2020/11/04/python%E7%AC%94%E8%AE%B0/</id>
     <published>2020-11-04T06:12:58.328Z</published>
     <updated>2020-11-04T06:25:31.215Z</updated>
     
@@ -49,10 +68,10 @@
     
     
     
-    <category term="python" scheme="http://example.com/categories/python/"/>
+    <category term="python" scheme="https://blog.bingege.top/categories/python/"/>
     
     
-    <category term="python" scheme="http://example.com/tags/python/"/>
+    <category term="python" scheme="https://blog.bingege.top/tags/python/"/>
     
   </entry>
   
